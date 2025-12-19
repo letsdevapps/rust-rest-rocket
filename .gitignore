@@ -1,0 +1,17 @@
+# Arquivos de compilação
+/target/
+
+# Arquivos do editor
+*.swp
+*.swo
+
+# Dependências do cargo (se estiverem fora do repositório)
+/Cargo.lock
+
+# Configurações do editor/IDE
+.idea/
+/.vscode/
+
+# Outros arquivos temporários
+*.log
+
